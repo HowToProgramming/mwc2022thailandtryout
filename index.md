@@ -8,7 +8,7 @@
 
 ### Tryout Week 1-2 Mappool Showcase 
 
-MWC2022 Thailand Team Tryout Week 1-2 Mappool Showcase soon ! at [**TBA's Twitch Channel**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) at 19/6/2022 (TBA UTC+7)
+MWC2022 Thailand Team Tryout Week 1-2 Mappool Showcase soon ! at [**MIkuaimbot's Twitch Channel**](https://www.twitch.tv/mikuubaka_) at 19/6/2022 (20:00 UTC+7)
 
 ### Tryout Week 1-2 Submission
 
@@ -17,7 +17,7 @@ You can submit your replay of Week 1-2 Tryout using the form in [this part](#rep
 ## Procedure (วิธีคัดเลือก)
 
 วิธีการคัดเลือกผู้เล่นของเราจะเป็นดังนี้
-- สำหรับรอบนี้ ผู้เล่นต้องเล่น Mappool 3 ชุด ชุดละ 2 สัปดาห์ ซึ่งแต่ละชุดจะถูก showcase ทุกๆ 2 สัปดาห์ ผ่านทาง [**Twitch Channel ของ [TBA]**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- สำหรับรอบนี้ ผู้เล่นต้องเล่น Mappool 3 ชุด ชุดละ 2 สัปดาห์ (ยกเว้นชุดที่ 3 ที่ให้เวลา 1 สัปดาห์) ซึ่งแต่ละชุดจะถูก showcase ทุกๆ 2 สัปดาห์ ผ่านทาง [**Twitch Channel ของ MIkuaimbot**](https://www.twitch.tv/mikuubaka_)
 - ผู้เล่นต้องส่งคะแนนในรูปแบบ Replay และ Screenshot ซึ่งรายละเอียดของ Replay มีดังนี้
     - ต้องเป็น **Score V2** เท่านั้น
     - ต้องเป็น **ชื่อในเกมของตนเอง** เท่านั้น
@@ -32,48 +32,48 @@ You can submit your replay of Week 1-2 Tryout using the form in [this part](#rep
 Week 1-2 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Early Game : Rice
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Early Game : LN
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Early Game : Hybrid
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - SV : TBA
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 ### Week 3-4
 
 Week 3-4 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Late Game : Jumpstream
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Late Game : Jack
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Late Game : LN Density
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - SV : TBA
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
-### Week 5-6
+### Week 5
 
 Week 5-6 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Late Game : Speed
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Late Game : Technical
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Late Game : LN Release
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 - Late Game : Hybrid
-    - [phonon - polyriddim [brrrrrrrrrrrrrr] (Mapped by HowToPlayLN)](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806)
+    - TBA
 
 ## Replay Submission
 
