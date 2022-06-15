@@ -1,7 +1,3 @@
-<title>
-    osu!mania World Cup 2022 Thailand Team Tryout
-</title>
-<div class="tip" markdown="1">
 # osu!mania World Cup 2022 Thailand Team Tryout
 
 สวัสดีและยินดีต้อนรับเข้าสู่ osu!mania World Cup 2022 !
@@ -86,5 +82,3 @@ Replay & Screenshot Submission Link : TBA
 ## Result
 
 ผลการ Tryout จะประกาศให้ทราบก่อน **MWC2022 Qualifiers Mappool Showcase** (Date : TBA)
-
-</div>
