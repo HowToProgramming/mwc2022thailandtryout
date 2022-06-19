@@ -32,16 +32,16 @@ You can submit your replay of Week 1-2 Tryout using the form in [this part](#rep
 Week 1-2 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Early Game : Rice
-    - TBA
+    - [t+pazolite - Nous [Supernova 1.1x (204bpm)]](https://osu.ppy.sh/beatmapsets/1215928#mania/2530212)
 
 - Early Game : LN
-    - TBA
+    - [SYUNN - Cosy Catastrophe [Typhoon]](https://osu.ppy.sh/beatmapsets/1393751#mania/2877105)
 
 - Early Game : Hybrid
-    - TBA
+    - [Kyutatsuki - _ERR0R_ F0RB1DDEN C0NNEC+10N [Hybrid "403"]](https://osu.ppy.sh/beatmapsets/1478056#mania/3032355)
 
 - SV : SV
-    - TBA
+    - [Masafumi Takada - Re: Underground Trial [Sentence Vote]](https://osu.ppy.sh/beatmapsets/1477429#mania/3031259)
 
 ### Week 3-4
 
