@@ -8,7 +8,7 @@
 
 ### Tryout Week 1-2 Mappool Showcase 
 
-MWC2022 Thailand Team Tryout Week 1-2 Mappool Showcase soon ! at [**MIkuaimbot's Twitch Channel**](https://www.twitch.tv/mikuubaka_) at 19/6/2022 (20:00 UTC+7)
+MWC2022 Thailand Team Tryout Week 1-2 Mappool Showcase soon ! at [**MIkuaimbot's Twitch Channel**](https://www.twitch.tv/mikuubaka_) at 19/6/2022 (18:30 UTC+7)
 
 ### Tryout Week 1-2 Submission
 
