@@ -38,7 +38,7 @@ Week 1-2 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
     - [SYUNN - Cosy Catastrophe [Typhoon]](https://osu.ppy.sh/beatmapsets/1393751#mania/2877105)
 
 - Early Game : Hybrid
-    - [Kyutatsuki - _ERR0R_ F0RB1DDEN C0NNEC+10N [Hybrid "403"]](https://osu.ppy.sh/beatmapsets/1478056#mania/3032355)
+    - [Kyutatsuki - \_ERR0R\_ F0RB1DDEN C0NNEC+10N [Hybrid "403"]](https://osu.ppy.sh/beatmapsets/1478056#mania/3032355)
 
 - SV : SV
     - [Masafumi Takada - Re: Underground Trial [Sentence Vote]](https://osu.ppy.sh/beatmapsets/1477429#mania/3031259)
@@ -77,7 +77,7 @@ Week 5-6 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
 
 ## Replay Submission
 
-Replay & Screenshot Submission Link : TBA
+Replay & Screenshot Submission Link : https://forms.gle/hHLPBH9rGfrvVuBv8
 
 ## Result
 
