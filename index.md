@@ -10,7 +10,9 @@
 
 You can submit your replay of Week 1-2 Tryout using the form in [this part](#replay-submission)
 
-**!!! Deadline for replay submission : 2/7/2022 20:00 UTC+7 !!!**
+## Tryout Week 3-4 Mappool Showcase
+
+Tryout Week 3-4 Mappool Showcase will be held on 3/7/2022 20:30 Thailand Time
 
 ## Procedure (วิธีคัดเลือก)
 
