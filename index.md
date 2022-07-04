@@ -10,10 +10,6 @@
 
 You can submit your replay of Week 1-2 Tryout using the form in [this part](#replay-submission)
 
-## Tryout Week 3-4 Mappool Showcase
-
-Tryout Week 3-4 Mappool Showcase will be held on 3/7/2022 20:30 Thailand Time
-
 ## Procedure (วิธีคัดเลือก)
 
 วิธีการคัดเลือกผู้เล่นของเราจะเป็นดังนี้
@@ -48,16 +44,16 @@ Week 1-2 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
 Week 3-4 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Late Game : Jumpstream
-    - TBA
+    - [DJ Kurara - White Hair Little Swords Girl [Massacre (281BPM)]](https://osu.ppy.sh/beatmapsets/1438522#mania/2959915)
 
 - Late Game : Jack
-    - TBA
+    - [Ototsugi Kanade - Esteem [Desire [1.05x Rate]]](https://osu.ppy.sh/beatmapsets/1773346#mania/3630909)
 
 - Late Game : LN Density
-    - TBA
+    - [xi - Longinus [LN Prodigy (short) 1.05x (223bpm)]](https://osu.ppy.sh/beatmapsets/1714267#mania/3502794)
 
 - SV : SV
-    - TBA
+    - [Camellia - KillerBeast [hunter (sv)]](https://osu.ppy.sh/beatmapsets/1032781#mania/2160748)
 
 ### Week 5
 
