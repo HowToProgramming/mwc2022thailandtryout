@@ -8,7 +8,7 @@
 
 ### Tryout Week 1-2 Submission
 
-You can submit your replay of Week 1-2 Tryout using the form in [this part](#replay-submission)
+You can submit your replay of Week 1-4 Tryout using the form in [this part](#replay-submission)
 
 ## Procedure (วิธีคัดเลือก)
 
@@ -57,7 +57,7 @@ Week 3-4 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
 
 ### Week 5
 
-Week 5-6 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
+Week 5 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Late Game : Speed
     - TBA
