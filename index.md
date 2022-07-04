@@ -73,7 +73,9 @@ Week 5-6 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
 
 ## Replay Submission
 
-Replay & Screenshot Submission Link : [https://forms.gle/hHLPBH9rGfrvVuBv8](https://forms.gle/hHLPBH9rGfrvVuBv8)
+Replay & Screenshot Submission Link (Week 1-2) : [https://forms.gle/hHLPBH9rGfrvVuBv8](https://forms.gle/hHLPBH9rGfrvVuBv8)
+
+Replay & Screenshot Submission Link (Week 3-4) : [https://forms.gle/8o5WmbFDQ6H6qS8w8](https://forms.gle/8o5WmbFDQ6H6qS8w8)
 
 ## Result
 
