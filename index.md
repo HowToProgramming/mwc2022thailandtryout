@@ -60,16 +60,16 @@ Week 3-4 จะประกอบไปด้วย 4 แมพ ซึ่งจ�
 Week 5 จะประกอบไปด้วย 4 แมพ ซึ่งจะทดสอบ Skill ดังนี้
 
 - Late Game : Speed
-    - TBA
+    - [HOWL BE QUIET - Wake We Up [Skwid's Challenge 1.05x]](https://osu.ppy.sh/beatmapsets/1443429#mania/2969166)
 
 - Late Game : Technical
-    - TBA
+    - [katagiri - Angel's Salad ('Le mythe etendu' ver.) [indifference 1.05]](https://osu.ppy.sh/beatmapsets/1338008#mania/2771696)
 
 - Late Game : LN Release
-    - TBA
+    - [youman feat. GUMI - R.I.P. [cacophony 1.1x (297bpm)]](https://osu.ppy.sh/beatmapsets/1712790#mania/3629313)
 
 - Late Game : Hybrid
-    - TBA
+    - [Frums - of Ambrosia [End of Line]](https://osu.ppy.sh/beatmapsets/1510001#mania/3092148)
 
 ## Replay Submission
 
@@ -77,6 +77,8 @@ Replay & Screenshot Submission Link (Week 1-2) : [https://forms.gle/hHLPBH9rGfrv
 
 Replay & Screenshot Submission Link (Week 3-4) : [https://forms.gle/8o5WmbFDQ6H6qS8w8](https://forms.gle/8o5WmbFDQ6H6qS8w8)
 
+Replay & Screenshot Submission Link (Week 5) : [https://forms.gle/1r7Lrt8U3Jfrke5z9](https://forms.gle/1r7Lrt8U3Jfrke5z9)
+
 ## Result
 
-ผลการ Tryout จะประกาศให้ทราบก่อน **MWC2022 Qualifiers Mappool Showcase** (Date : TBA)
+ผลการ Tryout จะประกาศให้ทราบก่อน **MWC2022 Qualifiers Mappool Showcase** (Date : 7/27/2022)
